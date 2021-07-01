@@ -1,5 +1,5 @@
 # Smartphone_Price_Prediction_Using_LinearRegression
-I have devloped a dataset on hardware and software properties of mobile which contains 9 columns
+I have developed a dataset on hardware and software properties of mobile which contains 9 columns
 BATTERY	 | RAM | PPI | INT.MEM | EXT.MEM | F.CAM | R.CAM | DISP |	PRICE
 -------  | --- | --- | ------- | ------- | ----- | ----- | ---- | ----- 
 4000 |2 |	294 |	32 | 128 | 5 | 8 | 15.90 | 7800 
