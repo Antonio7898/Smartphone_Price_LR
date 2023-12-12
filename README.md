@@ -1,4 +1,4 @@
-# Smartphone_Price_Prediction_Using_LinearRegression
+# Smartphone_Price_Prediction
 I have developed a dataset on hardware and software properties of mobile which contains 9 columns
 BATTERY	 | RAM | PPI | INT.MEM | EXT.MEM | F.CAM | R.CAM | DISP |	PRICE
 -------  | --- | --- | ------- | ------- | ----- | ----- | ---- | ----- 
